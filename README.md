@@ -2,6 +2,7 @@
 tests the hypothesis that it is possible to "beat the market" using a swing trading strategy that is based on technical analysis.
 
 Introduction
+
 Amid debates on trading strategies among students, many are venturing into algorithmic trading societies or individual trading. Instead of adopting my coursemates' strategies blindly, I sought to evaluate their long-term profitability potential in the stock market.
 
 Methodology
